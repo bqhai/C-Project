@@ -1,0 +1,9 @@
+﻿Build started 28-Nov-19 23:18:08.
+     1>Project "D:\Thuc hanh\Visual studio\ParallelQuickSortWithOPENMP\ParallelQuickSortWithOPENMP\TestForm1\TestForm1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         TestForm1.vcxproj -> D:\Thuc hanh\Visual studio\ParallelQuickSortWithOPENMP\ParallelQuickSortWithOPENMP\Debug\ParallelQuickSort.exe
+     1>Done Building Project "D:\Thuc hanh\Visual studio\ParallelQuickSortWithOPENMP\ParallelQuickSortWithOPENMP\TestForm1\TestForm1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.33
